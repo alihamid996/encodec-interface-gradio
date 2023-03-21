@@ -5,7 +5,8 @@ The colab file has two interfaces each one has a different functionalty:
 2- In the second interface the user can record audio directly from the user's microphone.
 
 the telegram bot can compress or decompress depending on the file type it receives, you can also use the audio recording function to send audio to the bot.
-TO-DO LIST:
+
+#TO-DO LIST:
 -edit input and output functions so they could run real-time decompressing.
 -clean up the code, fix "parson json error"
 -compare encodec and other famous algorithms.
