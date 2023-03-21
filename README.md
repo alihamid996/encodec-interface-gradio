@@ -10,4 +10,4 @@ Add your bot token and id and hash in config.py
 # TO-DO LIST:
 -edit input and output functions so they could run real-time decompressing.\
 -clean up the code, fix "parson json error".\
--compare encodec and other famous algorithms.\
+-compare encodec and other famous algorithms.
