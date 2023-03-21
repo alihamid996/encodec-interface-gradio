@@ -1,6 +1,6 @@
 import os
 
-
+#add your appid bot token and hash you can get them from bot father
 class Config(object):
     BOT_TOKEN = os.environ.get("BOT_TOKEN", "5682718808:AAGco9xNB7tP_dK23otkEP3lDrAe4sO4RF8")
 
